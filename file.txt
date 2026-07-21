@@ -1,1 +1,2 @@
 Hello World
+This activity is done to make us understand git better
